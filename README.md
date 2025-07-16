@@ -29,112 +29,102 @@
 
 <h3 align="left">🔧 Languages, Frameworks & Tools: </h3>
 <table>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+      <th>Use Case</th>
+    </tr>
+
   <tr>
-    <th>Framework / Language</th>
-    <th>Icon</th>
-    <th>How to Use / Use Case</th>
-  </tr>
+  <td>Networking</td>
+  <td>
+    <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png" width="40" alt="Cisco" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+    <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="40" alt="Cisco Packet Tracer" />
+    <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png" width="40" alt="Wireshark" />
+    <img src="https://raw.githubusercontent.com/sleuthkit/autopsy/refs/heads/develop/icons/icon.ico" width="40" alt="Autopsy" />
+  </td>
+  <td>Network design, administration & monitoring tools</td>
+</tr>
+
   <tr>
-    <td>Android</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></td>
-    <td>Mobile app development (Java/Kotlin)</td>
+      <td>Cloud Computing</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP" />
+      </td>
+      <td>Cloud infrastructure, database, and hosting</td>
   </tr>
+
+  
   <tr>
-    <td>Angular</td>
-    <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></td>
-    <td>Web apps using TypeScript</td>
+      <td>Mobile Development</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="Android" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter" />
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" alt="Dart" />
+      </td>
+      <td>Mobile app development (Java/Kotlin, Flutter/Dart)</td>
   </tr>
+
+
+<tr>
+  <td>Databases</td>
+  <td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
+  </td>
+  <td>Relational & NoSQL database systems</td>
+</tr>
+
+
   <tr>
-    <td>Arduino</td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></td>
-    <td>IoT & embedded device programming</td>
-  </tr>
+      <td>DevOps</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
+      </td>
+      <td>CI/CD, containerization, and version control</td>
+</tr>
+
+
+ <tr>
+      <td>Web Development</td>
+      <td>
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap" />
+      </td>
+      <td>Frontend & backend web applications</td>
+    </tr>
+    
+    
   <tr>
-    <td>AWS</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-    <td>Cloud services and deployment</td>
+      <td>Software Development</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+      </td>
+      <td>Desktop, scripting, and general-purpose programming</td>
   </tr>
+    
+
   <tr>
-    <td>Bootstrap</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td>
-    <td>Responsive frontend UI framework</td>
-  </tr>
-  <tr>
-    <td>C#</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></td>
-    <td>Desktop, web apps, Unity games</td>
-  </tr>
-  <tr>
-    <td>Flutter</td>
-    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></td>
-    <td>Cross-platform mobile app development</td>
-  </tr>
-  <tr>
-    <td>Dart</td>
-    <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></td>
-    <td>Language for Flutter</td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-    <td>General-purpose & Android development</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-    <td>Scripting, automation, AI, backend</td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
-    <td>Backend (JavaScript runtime)</td>
-  </tr>
-  <tr>
-    <td>React.js</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
-    <td>Frontend JavaScript UI library</td>
-  </tr>
-  <tr>
-    <td>Tailwind CSS</td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
-    <td>Utility-first CSS framework</td>
-  </tr>
-  <tr>
-    <td>MySQL</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-    <td>Relational database</td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-    <td>NoSQL database for flexible data models</td>
-  </tr>
-  <tr>
-    <td>Firebase</td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></td>
-    <td>Realtime DB, auth, hosting</td>
-  </tr>
-  <tr>
-    <td>Express.js</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
-    <td>Node.js backend framework</td>
-  </tr>
-  <tr>
-    <td>Vercel</td>
-    <td><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/></td>
-    <td>Hosting platform for frontend apps (Next.js, static sites)</td>
-  </tr>
-  <!-- Optional additions -->
-  <tr>
-    <td>Docker</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
-    <td>Containerization of apps and microservices</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
-    <td>Version control and code collaboration</td>
-  </tr>
+      <td>IoT</td>
+      <td>
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino" />
+      </td>
+      <td>Embedded and IoT programming</td>
+  </tr> 
+
+ 
 </table>
 
 
