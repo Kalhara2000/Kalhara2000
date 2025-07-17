@@ -1,11 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Thamindu Kalhara</h1>
 <h3 align="center">🚀 Passionate IT Student | Exploring Technology’s Boundless Possibilities</h3>
-
-    <p align="center">
-    <a href="https://github-profile-trophy.vercel.app/?username=kalhara2000&theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalhara2000&theme=darkhub" alt="kalhara2000" />
-    </a>
-    </p>
+<p align="center">
+<a href="https://github-profile-trophy.vercel.app/?username=kalhara2000&theme=darkhub">
+ <img src="https://github-profile-trophy.vercel.app/?username=kalhara2000&theme=darkhub" alt="kalhara2000" />
+ </a>
+</p>
 
 - 💬 Ask me about anything related to **Software Development | IoT | Networking | Unreal Engine | Flutter**
 
